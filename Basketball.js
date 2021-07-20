@@ -42,7 +42,12 @@ class Basketball {
         console.log(`"${team.teamName}" team is paying ${totalTeamValue} cash/year for it's players.`);
     }
 
+    letsPlay(teamId) {
+        console.log(`New game everybody!\n"${this.allTeams[teamId - 1].teamName}" vs. "${this.allTeams[teamId].teamName}"`);
+    }
 
+    score(points) {
+
+    }
 }
-
 module.exports = Basketball;

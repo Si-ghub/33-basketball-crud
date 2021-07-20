@@ -52,10 +52,10 @@ game.buyPlayer(2, 8);
 game.buyPlayer(2, 7);
 // // "Monstars" team can't add extra players to it's team.\nMaximum players per team is 3.
 
-// game.letsPlay(1, 2);
+game.letsPlay(1, 2);
 // // New game everybody!\n"Goon Squad" vs. "Monstars"
 
-// game.score(77, 76);
+game.score(77, 76);
 // // "Goon Squad" wins!
 
 // game.letsPlay(2, 1);
