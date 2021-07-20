@@ -25,31 +25,31 @@ game.createTeam('Monstars');
 game.buyPlayer(1, 1);
 // // "Goon Squad" team just acquired new player Lola Bunny for 200 cash/year!
 
-// game.buyPlayer(1, 2);
+game.buyPlayer(1, 2);
 // // "Goon Squad" team just acquired new player Bugs Bunny for 150 cash/year!
 
-// game.buyPlayer(1, 5);
+game.buyPlayer(1, 5);
 // // "Goon Squad" team just acquired new player Tasmanian Devil for 175 cash/year!
 
-// game.buyPlayer(2, 6);
+game.buyPlayer(2, 6);
 // // "Monstars" team just acquired new player Brow for 175 cash/year!
 
-// game.buyPlayer(2, 8);
+game.buyPlayer(2, 8);
 // // "Monstars" team just acquired new player Chromos for 105 cash/year!
 
-// game.buyPlayer(2, 10);
+game.buyPlayer(2, 10);
 // // "Monstars" team just acquired new player Arachnneka for 195 cash/year!
 
-// game.teamValue(1);
+game.teamValue(1);
 // // "Goon Squad" team is paying 525 cash/year for it's players.
 
-// game.teamValue(2);
-// // "Monstars" team is paying 475 cash/year for it's players.
+game.teamValue(2);
+// // "Monstars" team is paying 430 cash/year for it's players.
 
-// game.buyPlayer(2, 8);
+game.buyPlayer(2, 8);
 // // "Monstars" team can't add the same player twice!
 
-// game.buyPlayer(2, 7);
+game.buyPlayer(2, 7);
 // // "Monstars" team can't add extra players to it's team.\nMaximum players per team is 3.
 
 // game.letsPlay(1, 2);
