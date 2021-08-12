@@ -58,17 +58,17 @@ game.letsPlay(1, 2);
 game.score(77, 76);
 // // "Goon Squad" wins!
 
-// game.letsPlay(2, 1);
-// // New game everybody!\n"Monstars" vs. "Goon Squad"
+game.letsPlay(2, 1);
+// // // New game everybody!\n"Monstars" vs. "Goon Squad"
 
-// game.score(80, 69);
-// // "Monstars" wins!
+game.score(80, 69);
+// // // "Monstars" wins!
 
-// game.letsPlay(1, 2);
-// // New game everybody!\n"Goon Squad" vs. "Monstars"
+game.letsPlay(1, 2);
+// // // New game everybody!\n"Goon Squad" vs. "Monstars"
 
-// game.score(84, 82);
-// // "Goon Squad" wins!
+game.score(84, 82);
+// // // "Goon Squad" wins!
 
 // game.seasonSummary();
 // // Season summary for "Bun land" 3x3 league:
